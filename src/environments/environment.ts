@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  htmlToPdfUrl : 'http://pdfengine-sandbox.b2cdev.com/htmltopdf'
 };
 
 /*
